@@ -1,6 +1,7 @@
 # GitKraken_Chinese_Package
 
 ## 1、GitKraken 汉化效果
+
 该项目是将 GitKraken 官方提供的语言包 `strings.json` ，通过 `Chat GPT-4` 自动完成全文的翻译，可能部分翻译内容会存在机器翻译、错误翻译，我已经修正了一部分，大家在使用的过程中遇到有异议的地方，欢迎保存截图评论，我们来共同维护这个 `GitKraken 中文语言包`；
 
 -   工作区界面
@@ -20,8 +21,6 @@
 ## ![快捷方式界面](docs\image\4.png)
 
 ## 2、中文语言包配置工具
-
-写了个简单的批处理方便安装翻译 ↓
 
 -   1.下载好资源后，将 ZIP 解压至任意目录，打开 `install.bat` 该批处理可以将对应 `strings.json` 汉化语言包配置到 GitKraken 的安装目录中；
 
